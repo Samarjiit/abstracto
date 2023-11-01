@@ -1,4 +1,4 @@
-## [Live Demo](https://abstracto.netlify.app/)
+## [Live Demo](https://abstractoo.netlify.app/)
 
 ![screenshot](./public/aa.png)
 
